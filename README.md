@@ -1,4 +1,5 @@
 # Languages  
+[![codecov](https://codecov.io/gh/4513/languages/graph/badge.svg?token=UPKV05thte)](https://codecov.io/gh/4513/languages)
 
 *mibo/languages*
 
